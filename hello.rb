@@ -1,1 +1,1 @@
-puts ""[DHello "[DWorld"[B[B[B[B[B
+puts "Hello, #{ARGV.first}"
