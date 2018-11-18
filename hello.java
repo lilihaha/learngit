@@ -4,6 +4,6 @@
 //第三次修改
 public class hello {
 	public static void main (Streing[] args) {
-		System.out.println("Hello World")
+		System.out.println("Hello World");
 	}
 }
