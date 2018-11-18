@@ -5,5 +5,6 @@
 public class hello {
 	public static void main (Streing[] args) {
 		System.out.println("Hello World");
+		System.out.println("你好， 世界");
 	}
 }
