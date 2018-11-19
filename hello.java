@@ -11,5 +11,9 @@ public class hello
 
 	public static void remove (int index){
 		arrayList.remove(index);
+
+	public static void add(Object obj) {
+		ArrayList list = new ArrayList();
+
 	}
 }
