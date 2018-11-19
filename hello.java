@@ -2,6 +2,7 @@
 //修改默认
 //添加第二次默认
 //第三次修改
+//测试协作开发001
 public class hello 
 	private static arrayList = new ArrayList();{
 	public static void main (Streing[] args) {
