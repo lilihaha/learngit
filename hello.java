@@ -9,11 +9,10 @@ public class hello
 		System.out.println("你好， 世界");
 	}
 
-	public static void remove (int index){
+	public static void remove(int index){
 		arrayList.remove(index);
 
 	public static void add(Object obj) {
 		ArrayList list = new ArrayList();
-
 	}
 }
