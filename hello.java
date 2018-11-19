@@ -7,4 +7,8 @@ public class hello {
 		System.out.println("Hello World");
 		System.out.println("你好， 世界");
 	}
+
+	public static void add(Object obj) {
+		ArrayList list = new ArrayList();
+	}
 }
